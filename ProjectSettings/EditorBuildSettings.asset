@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 797ca8258d93b4b4c86c82fab9650a52
+  - enabled: 1
+    path: Assets/Scenes/CAsertivo.unity
+    guid: dec15e7d262c7f549bb1ce17f8eb993b
+  - enabled: 1
+    path: Assets/Scenes/CAcertivo2.unity
+    guid: 2c02e0b706461bb40978a82be44a8966
+  - enabled: 1
     path: Assets/Scenes/CAgresivo.unity
     guid: 2d3ab066bb9ac494897d6907cff5ad14
   - enabled: 1
