@@ -1,34 +1,49 @@
 fileFormatVersion: 2
-guid: 9c48d1c1192a9ca43aa48b8679b31f45
+guid: 0b2edf8a5f42f5f43b4dd3a70260c921
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5507357889705690728
-    second: Tipografia_0
+      213: 6081044580436967378
+    second: Interfaz VR_0
   - first:
-      213: 6569678084608742789
-    second: Tipografia_1
+      213: 6319621415374661941
+    second: Interfaz VR_1
   - first:
-      213: 5614612425245153258
-    second: Tipografia_2
+      213: -7690258800382502213
+    second: Interfaz VR_2
   - first:
-      213: -8112053297138446611
-    second: Tipografia_3
+      213: 1900843576039418023
+    second: Interfaz VR_3
   - first:
-      213: -5009502116937241749
-    second: Tipografia_4
+      213: 3953522512593261252
+    second: Interfaz VR_4
   - first:
-      213: 2715453725460658548
-    second: Tipografia_5
+      213: 4668858710235902197
+    second: Interfaz VR_5
   - first:
-      213: -6250866466060988514
-    second: Tipografia_6
+      213: -7302563691207568204
+    second: Interfaz VR_6
   - first:
-      213: 5517063190945116922
-    second: Tipografia_7
+      213: -8613104983422046021
+    second: Interfaz VR_7
   - first:
-      213: -3443811065285844744
-    second: Tipografia_8
+      213: 7538364089579246315
+    second: Interfaz VR_8
+  - first:
+      213: 1736513852051453892
+    second: Interfaz VR_9
+  - first:
+      213: 7086012402924405384
+    second: Interfaz VR_10
+  - first:
+      213: 567051000214435413
+    second: Interfaz VR_11
+  - first:
+      213: -1263899651757202238
+    second: Interfaz VR_12
+  - first:
+      213: 7802819946732557797
+    second: Interfaz VR_13
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -190,13 +205,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tipografia_0
+      name: Interfaz VR_0
       rect:
         serializedVersion: 2
-        x: 290
-        y: 11115
-        width: 4475
-        height: 2208
+        x: 147
+        y: 11891
+        width: 12098
+        height: 2496
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,41 +219,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8664ada42d01e6c40800000000000000
-      internalID: 5507357889705690728
+      spriteID: 2df7240c3d5346450800000000000000
+      internalID: 6081044580436967378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tipografia_1
+      name: Interfaz VR_1
       rect:
         serializedVersion: 2
-        x: 408
-        y: 9726
-        width: 4429
-        height: 1193
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 585d5c9096f2c2b50800000000000000
-      internalID: 6569678084608742789
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tipografia_2
-      rect:
-        serializedVersion: 2
-        x: 427
-        y: 8377
-        width: 4413
-        height: 1192
+        x: 139
+        y: 5326
+        width: 5463
+        height: 6470
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,20 +240,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae75b36d04c1bed40800000000000000
-      internalID: 5614612425245153258
+      spriteID: 539ab5ac13ec3b750800000000000000
+      internalID: 6319621415374661941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tipografia_3
+      name: Interfaz VR_2
       rect:
         serializedVersion: 2
-        x: 456
-        y: 6987
-        width: 4407
-        height: 1190
+        x: 4123
+        y: 4079
+        width: 1476
+        height: 1127
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,20 +261,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: deec60971823c6f80800000000000000
-      internalID: -8112053297138446611
+      spriteID: bba1164ad56b64590800000000000000
+      internalID: -7690258800382502213
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tipografia_4
+      name: Interfaz VR_3
       rect:
         serializedVersion: 2
-        x: 442
-        y: 5639
-        width: 4421
-        height: 1195
+        x: 5666
+        y: 10073
+        width: 6581
+        height: 1724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3215, y: 799, z: 3229, w: 793}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8a96b4927216a10800000000000000
+      internalID: 1900843576039418023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz VR_4
+      rect:
+        serializedVersion: 2
+        x: 5674
+        y: 8318
+        width: 6575
+        height: 1713
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3240, y: 804, z: 3236, w: 818}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c291ae47cbbdd630800000000000000
+      internalID: 3953522512593261252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz VR_5
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 2775
+        width: 5477
+        height: 1723
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,20 +324,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6b636abd5caa7ab0800000000000000
-      internalID: -5009502116937241749
+      spriteID: 5f07912a24e1bc040800000000000000
+      internalID: 4668858710235902197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tipografia_5
+      name: Interfaz VR_6
       rect:
         serializedVersion: 2
-        x: 443
-        y: 4298
-        width: 4418
-        height: 1181
+        x: 180
+        y: 1399
+        width: 3843
+        height: 3838
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,20 +345,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 479f716b6ca3fa520800000000000000
-      internalID: 2715453725460658548
+      spriteID: 4b458e3730518aa90800000000000000
+      internalID: -7302563691207568204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tipografia_6
+      name: Interfaz VR_7
       rect:
         serializedVersion: 2
-        x: 434
-        y: 2907
-        width: 4432
-        height: 1185
+        x: 4248
+        y: 222
+        width: 8000
+        height: 2404
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,20 +366,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9f880051167049a0800000000000000
-      internalID: -6250866466060988514
+      spriteID: bb07bf9d6aa187880800000000000000
+      internalID: -8613104983422046021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tipografia_7
+      name: Interfaz VR_8
       rect:
         serializedVersion: 2
-        x: 411
-        y: 1513
-        width: 3613
-        height: 1198
+        x: 6644
+        y: 6449
+        width: 1821
+        height: 1816
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,20 +387,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af2baa3ddbb809c40800000000000000
-      internalID: 5517063190945116922
+      spriteID: be29ee21336ad9860800000000000000
+      internalID: 7538364089579246315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tipografia_8
+      name: Interfaz VR_9
       rect:
         serializedVersion: 2
-        x: 421
-        y: 133
-        width: 3606
-        height: 1190
+        x: 8526
+        y: 6448
+        width: 1820
+        height: 1822
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -372,8 +408,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f0e31c05102530d0800000000000000
-      internalID: -3443811065285844744
+      spriteID: 4c77213e526591810800000000000000
+      internalID: 1736513852051453892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz VR_10
+      rect:
+        serializedVersion: 2
+        x: 10407
+        y: 6446
+        width: 1828
+        height: 1827
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8824256bcb2965260800000000000000
+      internalID: 7086012402924405384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz VR_11
+      rect:
+        serializedVersion: 2
+        x: 6638
+        y: 4573
+        width: 1817
+        height: 1812
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556bf4d51e19ed700800000000000000
+      internalID: 567051000214435413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz VR_12
+      rect:
+        serializedVersion: 2
+        x: 8586
+        y: 4563
+        width: 1811
+        height: 1821
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4a54196f9b57ee0800000000000000
+      internalID: -1263899651757202238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz VR_13
+      rect:
+        serializedVersion: 2
+        x: 10451
+        y: 4572
+        width: 1815
+        height: 1808
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e59353866f294c60800000000000000
+      internalID: 7802819946732557797
       vertices: []
       indices: 
       edges: []
@@ -381,7 +501,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: a3abf3ea30d77c34ebaccc7b6920c67c
+    spriteID: 7dee66c68285e5d419c0c34fadde5dfd
     internalID: 0
     vertices: []
     indices: 
