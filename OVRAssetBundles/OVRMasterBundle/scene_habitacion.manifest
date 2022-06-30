@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+CRC: 3861388745
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56a431900f71f360e2dbe6a0315bb5aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51e1c0266cc81c143d6236325596b970
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7509df1e1c6e6b44087e41dbcf1530bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa7f2b2c63ebfd049b9a749fdb02be8b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34a8a34d0d52c874bb41918ff028606e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Habitacion.unity
+Dependencies:
+- D:/Repositorios/ProyectoVr/ProyectoVr/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- D:/Repositorios/ProyectoVr/ProyectoVr/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- D:/Repositorios/ProyectoVr/ProyectoVr/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/Repositorios/ProyectoVr/ProyectoVr/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/Repositorios/ProyectoVr/ProyectoVr/OVRAssetBundles/OVRMasterBundle/asset_mp30

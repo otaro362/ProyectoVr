@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2969576069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fcff4cd6d954eb919d467d7592d4acf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Voces/AudioJaimeUno1.mp3
+- Assets/Voces/AudioJaimeRecAAgresi.mp3
+- Assets/Voces/PesamientoCalma.mp3
+- Assets/Voces/SComunicacionAgre.mp3
+- Assets/Voces/AudioJaimeRecAAcerti.mp3
+- Assets/Voces/SComunicacionPasi.mp3
+- Assets/Voces/SComunicacionPasi-Agre.mp3
+- Assets/Voces/SComunicacionAceaifc.mp3
+Dependencies: []

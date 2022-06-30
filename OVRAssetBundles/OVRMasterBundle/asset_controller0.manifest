@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 4010211875
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e202fe10fdf69e65ece5451982ca1c59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 081ab87beed33679779f0541a894221a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab6f4ef2a2bd4c446b5a62a7bcbd85a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08a4eb355e2fb5e4ab4e6498499dce9b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animaciones/Mujer/Mujeremociones 2.controller
+- Assets/principal/Hombree.controller
+- Assets/Animaciones/Hombre/Hombrehablarsentado.controller
+- Assets/Animaciones/Mujer/MujerE2.controller
+- Assets/Animaciones/Mujer/Mujeremociones 4.controller
+- Assets/Animaciones/Hombre/HombreE2.controller
+- Assets/Animaciones/Mujer/Mujeremociones 3.controller
+- Assets/Animaciones/Mujer/Mujeremociones 1.controller
+- Assets/Otros/Image.controller
+- Assets/Animaciones/Mujer/Mujeremociones 5.controller
+- Assets/Animaciones/Mujer/Mujeremociones.controller
+- Assets/Animaciones/Hombre/Hombreanim.controller
+- Assets/Animaciones/Hombre/Hombrehablarsentado2.controller
+Dependencies:
+- D:/Repositorios/ProyectoVr/ProyectoVr/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- D:/Repositorios/ProyectoVr/ProyectoVr/OVRAssetBundles/OVRMasterBundle/asset_anim1
+- D:/Repositorios/ProyectoVr/ProyectoVr/OVRAssetBundles/OVRMasterBundle/asset_fbx0

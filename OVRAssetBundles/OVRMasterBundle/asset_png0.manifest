@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 173806171
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1823c203a11bb1bb27635133145ea6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.unity.inputsystem/InputSystem/Editor/Icons/InputSystemUIInputModule@64.png
+- Assets/textures/base color.png
+- Assets/textures/Untitled.png
+- Packages/com.unity.animation.rigging/Editor/Icons/RuntimeRig@32.png
+- Assets/textures/textura base.png
+- Assets/01 Objetos e Imagenes/01 Prefabs/New Folder/propuesta vr-01.png
+- Assets/01 Objetos e Imagenes/01 Prefabs/New Folder/propuesta vr-01 - copia.png
+- Assets/01 Objetos e Imagenes/01 Prefabs/New Folder/Captura de pantalla 2022-06-13
+  203341.png
+- Assets/Animaciones/Hombre/base color.png
+Dependencies: []

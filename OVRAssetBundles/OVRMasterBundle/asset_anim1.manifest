@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2258994958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4715be36fb36f869634f7e841783eb5a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animaciones/Mujer/Caminar.anim
+- Assets/Animaciones/Mujer/sentadaE.anim
+- Assets/Animaciones/Hombre/sentado2.anim
+- Assets/Animaciones/Mujer/LevantarseM.anim
+- Assets/Animaciones/Mujer/Llorar.anim
+- Assets/Animaciones/Mujer/SubirVolumen.anim
+- Assets/Animaciones/Mujer/Agacharse.anim
+Dependencies: []

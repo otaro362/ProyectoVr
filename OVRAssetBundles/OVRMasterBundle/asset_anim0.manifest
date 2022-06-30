@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1668197150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 709eff68d49c49f4a0549bfe6d26e829
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e9ff7947e86ac18259f8d8c6c35c7861
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animaciones/Mujer/Parpadear.anim
+- Assets/Otros/Fatein.anim
+- Assets/Animaciones/Mujer/enojoM.anim
+- Assets/Animaciones/Hombre/Caminar.anim
+- Assets/Animaciones/Hombre/hablar1.anim
+- Assets/Animaciones/Hombre/vacio2.anim
+- Assets/Animaciones/Mujer/HablarMu.anim
+- Assets/Animaciones/Hombre/sentado.anim
+- Assets/Animaciones/Mujer/sentada.anim
+- Assets/Animaciones/Mujer/hablarm.anim
+- Assets/Animaciones/Hombre/caminarH.anim
+- Assets/Voces/vacio.anim
+- Assets/Animaciones/Mujer/PensandoM.anim
+- Assets/Animaciones/Mujer/RespiracionConCalma.anim
+- Assets/Animaciones/Hombre/hablar.anim
+- Assets/Animaciones/Mujer/hbalrcruzzada.anim
+- Assets/Animaciones/Mujer/corto.anim
+- Assets/Animaciones/Mujer/cruzarbrazos.anim
+- Assets/Animaciones/Mujer/emociones.anim
+- Assets/Animaciones/Hombre/Hablar4.anim
+- Assets/Animaciones/Hombre/Vacio.anim
+- Assets/Animaciones/Mujer/PensamientoConCalma.anim
+- Assets/Animaciones/Hombre/EmosionesH.anim
+- Assets/Animaciones/Hombre/pararceH.anim
+- Assets/Animaciones/Hombre/hablar2.anim
+- Assets/Animaciones/Hombre/sentarceSofaH.anim
+- Assets/Animaciones/Hombre/Hablar3.anim
+- Assets/Animaciones/Hombre/Hablar_preocupado.anim
+- Assets/Otros/gira.anim
+- Assets/Animaciones/Mujer/hablarMs.anim
+Dependencies: []

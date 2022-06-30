@@ -1,0 +1,10 @@
+1656510652
+Menu
+CAsertivo
+CAcertivo2
+CAgresivo
+Habitacion
+MovimientoPersonaje
+CPasivoAgresivo
+CPasivo
+Cpasivo2

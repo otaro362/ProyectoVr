@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 1420430534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d642d11c78c96db383ecce838cfd184
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 878d4958587a35dcf642e405c5c922a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animaciones/Mujer/Mujeremociones.fbx
+- Assets/Animaciones/Hombre/Hombrehablarsentado.fbx
+- Assets/Habitacion/celular.fbx
+- Assets/Habitacion/Casa 2.fbx
+- Assets/Habitacion/armario.fbx
+- Assets/Habitacion/Restaurante2 .fbx
+- Assets/Habitacion/Habitacion_corregido.fbx
+- Assets/principal/Hombree.fbx
+- Assets/Animaciones/Hombre/Hombrehablar1.fbx
+- Assets/Habitacion/Restaurante .fbx
+Dependencies:
+- D:/Repositorios/ProyectoVr/ProyectoVr/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/Repositorios/ProyectoVr/ProyectoVr/OVRAssetBundles/OVRMasterBundle/asset_png0
