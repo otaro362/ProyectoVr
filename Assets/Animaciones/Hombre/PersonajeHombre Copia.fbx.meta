@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 16f1a1e8ef0a58e42b7887dc042eb693
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -3596777139943957376
+    second: armature|AmenazaGolpe
+  - first:
+      74: 5776250641129251423
+    second: armature|BesoMejilla
+  - first:
+      74: -9084009660949578230
+    second: armature|Caminar
+  - first:
+      74: -8582800732095810350
+    second: armature|CaminarAbrePuerta
+  - first:
+      74: -7638139764262884278
+    second: armature|CaminaSaludaRapidamente
+  - first:
+      74: -4739951061684035984
+    second: armature|CierraPuertaTriste
+  - first:
+      74: -8346037400896346800
+    second: armature|DepiePensando
+  - first:
+      74: 7822948728782043845
+    second: armature|Enojado
+  - first:
+      74: -236418190512222912
+    second: armature|Feliz
+  - first:
+      74: 5570617124386528267
+    second: armature|GraciasPorDecirlo
+  - first:
+      74: -8564531937342751117
+    second: armature|PensamientoTristeYNada
+  - first:
+      74: 7087638581492077849
+    second: armature|PensamientoTristeYNada.001
+  - first:
+      74: -5342372240817184055
+    second: armature|Sentado
+  - first:
+      74: 5195696947546639745
+    second: armature|SentadoHablandoCelular
+  - first:
+      74: 6386156426782870912
+    second: armature|SentadoHablandoCelular1
+  - first:
+      74: 8675538194198483616
+    second: armature|SentadoHablandoSofa
+  - first:
+      74: 5267991920598452755
+    second: armature|SentadoHablandoSofa1
+  - first:
+      74: -4709296388380496038
+    second: armature|SentadoTomaCelular
+  - first:
+      74: -6614596065473739144
+    second: armature|SentadoTomaCerveza
+  - first:
+      74: -270464841171649987
+    second: armature|SentadoTomaCerveza1
+  - first:
+      74: -2435733896317721566
+    second: armature|SentandoPensando
+  - first:
+      74: 6343131119133315808
+    second: armature|SentandoTomaCabeza
+  - first:
+      74: -2732811572237804770
+    second: armature|SeTomalaCabezayTapaOidos
+  - first:
+      74: -4212106564067061833
+    second: armature|Sorprendido
+  - first:
+      74: -6663774959931528004
+    second: armature|TranquilaAquiEstoy
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

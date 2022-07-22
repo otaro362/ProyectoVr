@@ -261,6 +261,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 6944846143244404797, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6944846143881110507, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6944846144236004378, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6944846144817827885, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
 --- !u!1001 &8013725102462987081
@@ -313,6 +329,10 @@ PrefabInstance:
     - target: {fileID: 6455202208620373728, guid: 366acd53cd5f09546bfd86b61d265fd6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8013725103263163631, guid: 366acd53cd5f09546bfd86b61d265fd6, type: 3}
+      propertyPath: nombre
+      value: CPasivo2
       objectReference: {fileID: 0}
     - target: {fileID: 8945210367402256670, guid: 366acd53cd5f09546bfd86b61d265fd6, type: 3}
       propertyPath: m_Name

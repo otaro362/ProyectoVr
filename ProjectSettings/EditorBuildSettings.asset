@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/CAsertivo.unity
     guid: dec15e7d262c7f549bb1ce17f8eb993b
   - enabled: 1
-    path: Assets/Scenes/CAcertivo2.unity
+    path: Assets/Scenes/CAsertivo2.unity
     guid: 2c02e0b706461bb40978a82be44a8966
   - enabled: 1
     path: Assets/Scenes/CPasivo.unity
@@ -24,14 +24,38 @@ EditorBuildSettings:
     path: Assets/Scenes/Habitacion.unity
     guid: 504fc04a93a72b6418399c19b5f9f47f
   - enabled: 1
-    path: Assets/Scenes/Cpasivo2.unity
+    path: Assets/Scenes/CPasivo2.unity
     guid: b2e9c5d0534b89e479d9aa109ce7cf6a
   - enabled: 1
     path: Assets/Scenes/CAgresivo.unity
     guid: 2d3ab066bb9ac494897d6907cff5ad14
+  - enabled: 1
+    path: Assets/Scenes/CPasivaG2.unity
+    guid: f59a84aafe9c7d34c86c91d5562bab2d
+  - enabled: 1
+    path: Assets/Scenes/CAcertivaG2.unity
+    guid: 5bc49ddc215e3f149a57c66b2a5bf6a0
+  - enabled: 1
+    path: Assets/Scenes/CAgresivoG2.unity
+    guid: f2603767c6545064e9c9e7c96f2e819c
+  - enabled: 1
+    path: Assets/Scenes/CTristezaG1.unity
+    guid: 124d5fca64ffa244e97ccb22bc16745f
+  - enabled: 1
+    path: Assets/Scenes/CTristezaG2.unity
+    guid: bf91f979d0f62e94499cf75970f23fdd
+  - enabled: 1
+    path: Assets/Scenes/CTristezaG3.unity
+    guid: 91adfe37438551149900d2f95cb8767d
+  - enabled: 1
+    path: Assets/Scenes/CAgresionVerbal.unity
+    guid: e2d5e10b4780bb34bbdb53d4914ad34c
   - enabled: 0
     path: Assets/Scenes/MovimientoPersonaje.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Casa.unity
+    guid: 911f1a601476b3d41ac86eb1beed3d5a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 35fbeb21899402a4fbbda2f6bb5f1204, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ba4ef5f54ab33214ea2d55c8d1f2770a, type: 2}
