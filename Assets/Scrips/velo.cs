@@ -10,7 +10,7 @@ public class velo : StateMachineBehaviour
     {
         if (canvas==null)
         {
-            canvas = GameObject.Find("Canvas");
+            canvas = GameObject.Find("GameManager");
         }
 
     }

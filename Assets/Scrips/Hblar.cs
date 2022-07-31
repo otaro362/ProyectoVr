@@ -102,7 +102,7 @@ public class Hblar : MonoBehaviour
     IEnumerator Siguiente5()
     {
         vozM.Play();
-        yield return new WaitForSeconds(41f);
+        yield return new WaitForSeconds(33f);
         vozH.Play();
     }
 }

@@ -6062,7 +6062,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2142230203
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6071,7 +6071,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2142230202}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.07}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1293764481}
@@ -6139,6 +6139,7 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< Updated upstream
     - target: {fileID: 22044336922032092, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
       propertyPath: m_fontSize
       value: 35
@@ -6154,11 +6155,45 @@ PrefabInstance:
     - target: {fileID: 22044337529313890, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
       propertyPath: m_fontSize
       value: 35
+=======
+    - target: {fileID: 22044337051006634, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 01ac8ef3a2ca28e4c934eab0d1e4438a, type: 3}
+    - target: {fileID: 22044337143353930, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 01ac8ef3a2ca28e4c934eab0d1e4438a, type: 3}
+    - target: {fileID: 22044337397763212, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 01ac8ef3a2ca28e4c934eab0d1e4438a, type: 3}
+    - target: {fileID: 22044337529313890, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_text
+      value: Tipos de Comunicacion
+      objectReference: {fileID: 0}
+    - target: {fileID: 22044337529313890, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_fontSize
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 22044337529313890, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_margin.x
+      value: 21.656021
+      objectReference: {fileID: 0}
+    - target: {fileID: 22044337529313890, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_margin.z
+      value: 21.652771
+      objectReference: {fileID: 0}
+    - target: {fileID: 22044337529313890, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_fontSizeMax
+      value: 78
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 22044337529313890, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
       propertyPath: m_fontSizeBase
       value: 35
       objectReference: {fileID: 0}
+<<<<<<< Updated upstream
     - target: {fileID: 22044337540296607, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
       propertyPath: m_fontSize
       value: 35
@@ -6166,16 +6201,33 @@ PrefabInstance:
     - target: {fileID: 22044337540296607, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
       propertyPath: m_fontSizeBase
       value: 35
+=======
+    - target: {fileID: 22044337529313890, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 0
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 22044337682075956, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1532118078}
+<<<<<<< Updated upstream
+=======
+    - target: {fileID: 22044337682075957, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 01ac8ef3a2ca28e4c934eab0d1e4438a, type: 3}
+    - target: {fileID: 22044337750174839, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_text
+      value: Escenas
+      objectReference: {fileID: 0}
+>>>>>>> Stashed changes
     - target: {fileID: 22044337750174839, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
       propertyPath: m_fontSize
       value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 22044337750174839, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+<<<<<<< Updated upstream
       propertyPath: m_fontSizeBase
       value: 35
       objectReference: {fileID: 0}
@@ -6242,6 +6294,18 @@ PrefabInstance:
     - target: {fileID: 22044337754707032, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
       propertyPath: m_Colors.m_HighlightedColor.r
       value: 0.18823531
+=======
+      propertyPath: m_fontSizeMax
+      value: 78
+      objectReference: {fileID: 0}
+    - target: {fileID: 22044337750174839, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 22044337750174839, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 0
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 22044337754707032, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -6271,6 +6335,7 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+<<<<<<< Updated upstream
     - target: {fileID: 22044337827255561, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
       propertyPath: m_fontSize
       value: 35
@@ -6279,6 +6344,12 @@ PrefabInstance:
       propertyPath: m_fontSizeBase
       value: 35
       objectReference: {fileID: 0}
+=======
+    - target: {fileID: 22044337754707033, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 01ac8ef3a2ca28e4c934eab0d1e4438a, type: 3}
+>>>>>>> Stashed changes
     - target: {fileID: 22044338023233953, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
       propertyPath: m_Name
       value: Canvas (1)
@@ -6375,5 +6446,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 22044338057780095, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 01ac8ef3a2ca28e4c934eab0d1e4438a, type: 3}
+    - target: {fileID: 22044338172403623, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 01ac8ef3a2ca28e4c934eab0d1e4438a, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00e6464d8a09457429b35af7c7f70b0b, type: 3}

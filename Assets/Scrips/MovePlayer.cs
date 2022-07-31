@@ -38,9 +38,11 @@ public class MovePlayer : MonoBehaviour
     }
     public void Distance(Transform player, Transform destino, float comparate)
     {
+        Debug.Log(Vector3.Distance(player.position, destino.position));
         if (Vector3.Distance(player.position, destino.position) < comparate)
         {
             animator.SetBool("Walk", false);
+            
         }
     }
 }

@@ -33,7 +33,7 @@ public class MoverceM : MonoBehaviour
         if (target==true)// si ya hay un primer target, con este metodo pasa al segundo target 
         {
             nav.SetDestination(target2.position);
-            StartCoroutine(Target2()); // esta corrutina indica el tiempo en el que cabiara de target
+            //StartCoroutine(Target2()); // esta corrutina indica el tiempo en el que cabiara de target
         }
 
     }

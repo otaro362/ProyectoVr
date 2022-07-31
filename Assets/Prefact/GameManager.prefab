@@ -46,11 +46,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   correcto: {fileID: 0}
   incorrecto: {fileID: 0}
-  botones:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  botones: []
 --- !u!114 &9020520742034272934
 MonoBehaviour:
   m_ObjectHideFlags: 0
