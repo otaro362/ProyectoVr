@@ -24,7 +24,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Habitacion.unity
     guid: 504fc04a93a72b6418399c19b5f9f47f
   - enabled: 1
-    path: Assets/Scenes/CPasivo2.unity
+    path: Assets/Scenes/Cpasivo2.unity
     guid: b2e9c5d0534b89e479d9aa109ce7cf6a
   - enabled: 1
     path: Assets/Scenes/CAgresivo.unity
@@ -43,10 +43,10 @@ EditorBuildSettings:
     guid: 124d5fca64ffa244e97ccb22bc16745f
   - enabled: 1
     path: Assets/Scenes/CTristezaG2.unity
-    guid: bf91f979d0f62e94499cf75970f23fdd
+    guid: 3dbc774cf1d207649855fbc63380eb05
   - enabled: 1
     path: Assets/Scenes/CTristezaG3.unity
-    guid: 91adfe37438551149900d2f95cb8767d
+    guid: 5e60a043bb6da6b4fb40ffb859a3592b
   - enabled: 1
     path: Assets/Scenes/CAgresionVerbal.unity
     guid: e2d5e10b4780bb34bbdb53d4914ad34c

@@ -126,19 +126,6 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
---- !u!114 &-6109515096980060766
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08da01d9d5af3bd43a3eac75e4c98470, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tarjet: Personaje Hombre
 --- !u!1102 &-4567627416036738923
 AnimatorState:
   serializedVersion: 6
@@ -152,7 +139,6 @@ AnimatorState:
   m_Transitions:
   - {fileID: -3700872522279169498}
   m_StateMachineBehaviours:
-  - {fileID: -665607405660638773}
   - {fileID: -3583592267431162764}
   - {fileID: -7041834720630939598}
   m_Position: {x: 50, y: 50, z: 0}
@@ -163,7 +149,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: e21bc192049fff048ad9bb358193b2e5, type: 2}
+  m_Motion: {fileID: 7400000, guid: ee9c55627e9e2dd4db67c489c5fe86d7, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -297,6 +283,32 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+--- !u!1102 &-3359410089946273660
+AnimatorState:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "HabalarAgresivoG2Rega\xF1ar"
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 0d4333046d968ff47b17bed68374d010, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!1102 &-2991052958163922897
 AnimatorState:
   serializedVersion: 6
@@ -339,19 +351,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canvas: {fileID: 0}
---- !u!114 &-665607405660638773
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08da01d9d5af3bd43a3eac75e4c98470, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tarjet: Personaje Hombre
 --- !u!1101 &-638028999687249229
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -414,6 +413,32 @@ MonoBehaviour:
   conteo: 0
   totaltime: 6
   parameter: hablar4
+--- !u!1102 &-307445307184242200
+AnimatorState:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HabalarAgresivoG2Levantese
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: ee9c55627e9e2dd4db67c489c5fe86d7, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!114 &-152814004461068868
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -441,37 +466,37 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Walk1
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: hablar2
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: hablar3
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: hablar4
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Walk
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 1
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -535,7 +560,6 @@ AnimatorState:
   m_Transitions:
   - {fileID: 8760385159062037219}
   m_StateMachineBehaviours:
-  - {fileID: -6109515096980060766}
   - {fileID: -152814004461068868}
   - {fileID: -345853190797837900}
   m_Position: {x: 50, y: 50, z: 0}
@@ -546,7 +570,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: e21bc192049fff048ad9bb358193b2e5, type: 2}
+  m_Motion: {fileID: 7400000, guid: 0d4333046d968ff47b17bed68374d010, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -616,7 +640,6 @@ AnimatorState:
   m_Transitions:
   - {fileID: 6143187997190578576}
   m_StateMachineBehaviours:
-  - {fileID: 3390613705314445154}
   - {fileID: 9150360562487485549}
   - {fileID: -3812682487243497541}
   m_Position: {x: 50, y: 50, z: 0}
@@ -627,25 +650,38 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: e21bc192049fff048ad9bb358193b2e5, type: 2}
+  m_Motion: {fileID: 7400000, guid: 6a166cf99a80faf4286196f059b2fa5c, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
---- !u!114 &3390613705314445154
-MonoBehaviour:
+--- !u!1102 &2560195407932861987
+AnimatorState:
+  serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08da01d9d5af3bd43a3eac75e4c98470, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tarjet: Personaje Hombre
+  m_Name: HabalarAgresivboG2
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 6a166cf99a80faf4286196f059b2fa5c, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!1107 &4110211445153202385
 AnimatorStateMachine:
   serializedVersion: 6
@@ -682,6 +718,15 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 2131697803944363187}
     m_Position: {x: 370, y: 550, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 2560195407932861987}
+    m_Position: {x: 405, y: 615, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -307445307184242200}
+    m_Position: {x: 440, y: 680, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -3359410089946273660}
+    m_Position: {x: 475, y: 745, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
