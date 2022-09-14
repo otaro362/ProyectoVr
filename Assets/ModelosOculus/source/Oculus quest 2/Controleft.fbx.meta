@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: d50e5cc2eb612744e8ae03ab35ce20a2
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 4010667225479211949
+    second: Controllers.001|Controllers.001|Controllers.001|Controllers.001|Controllers.001
+  - first:
+      74: -2251208223476783475
+    second: Controllers.001|Controllers.001|Controllers.001|Controllers.001|Controllers.002
+  - first:
+      74: -3530238288943344016
+    second: Controllers.001|Controllers.001|Controllers.001|Controllers.001|Controllers.003
+  - first:
+      74: 995437003713966034
+    second: Controllers.001|Controllers.001|Controllers.001|Controllers.001|Controllers.004
+  - first:
+      74: -6353515886225093886
+    second: Controllers.001|Controllers.001|Controllers.001|Controllers.001|Controllers.005
+  - first:
+      74: 5241695282158837770
+    second: Controllers.001|Controllers.001|Controllers.001|Controllers.001|Controllers.006
+  - first:
+      74: 8336376993560386779
+    second: Controllers.001|Controllers.001|Controllers.001|Controllers|Controllers|Con
+  - first:
+      74: 7388546353815154595
+    second: Controllers.001|Controllers.001|Controllers.001|Controllers|Controllers|Control
+  - first:
+      74: 2872782730942318131
+    second: 'Controllers.001|Controllers.001|Controllers.001|Controllers|Controllers|Oculus '
+  - first:
+      74: 4601392492117475802
+    second: Controllers.001|Controllers.001|Controllers.001|Oculus Headset|Oculus
+      Heads
+  - first:
+      74: -6719803139682976398
+    second: Controllers.001|Controllers.001|Controllers.001|Oculus Headset|Oculus
+      Headset|C
+  - first:
+      74: 4949835362261432205
+    second: Controllers.001|Controllers.001|Controllers.001|Oculus Headset|Oculus
+      Headset|O
+  - first:
+      74: 1944520015177805552
+    second: Controllers.002|Controllers.001|Controllers.001|Controllers.001|Controllers.001
+  - first:
+      74: -1413916929126166316
+    second: Controllers.002|Controllers.001|Controllers.001|Controllers.001|Controllers.002
+  - first:
+      74: 9066765472700382556
+    second: Controllers.002|Controllers.001|Controllers.001|Controllers.001|Controllers.003
+  - first:
+      74: 4543526411556792691
+    second: Controllers.002|Controllers.001|Controllers.001|Controllers.001|Controllers.004
+  - first:
+      74: 8665964618485274841
+    second: Controllers.002|Controllers.001|Controllers.001|Controllers.001|Controllers.005
+  - first:
+      74: 8097526162021689962
+    second: Controllers.002|Controllers.001|Controllers.001|Controllers.001|Controllers.006
+  - first:
+      74: -8341839675778530244
+    second: Controllers.002|Controllers.001|Controllers.001|Controllers|Controllers|Con
+  - first:
+      74: 1111550319100554776
+    second: Controllers.002|Controllers.001|Controllers.001|Controllers|Controllers|Control
+  - first:
+      74: 9193971424728158186
+    second: 'Controllers.002|Controllers.001|Controllers.001|Controllers|Controllers|Oculus '
+  - first:
+      74: -8583699675587654759
+    second: Controllers.002|Controllers.001|Controllers.001|Oculus Headset|Oculus
+      Heads
+  - first:
+      74: 5269036314001739405
+    second: Controllers.002|Controllers.001|Controllers.001|Oculus Headset|Oculus
+      Headset|C
+  - first:
+      74: -2588982032315869687
+    second: Controllers.002|Controllers.001|Controllers.001|Oculus Headset|Oculus
+      Headset|O
+  - first:
+      74: -8723211020520018189
+    second: Controllers.003|Controllers.001|Controllers.001|Controllers.001|Controllers.001
+  - first:
+      74: -5110160544470157499
+    second: Controllers.003|Controllers.001|Controllers.001|Controllers.001|Controllers.002
+  - first:
+      74: -3610479678630036332
+    second: Controllers.003|Controllers.001|Controllers.001|Controllers.001|Controllers.003
+  - first:
+      74: -835298663224610559
+    second: Controllers.003|Controllers.001|Controllers.001|Controllers.001|Controllers.004
+  - first:
+      74: -5250449524022340828
+    second: Controllers.003|Controllers.001|Controllers.001|Controllers.001|Controllers.005
+  - first:
+      74: 4649146745135093457
+    second: Controllers.003|Controllers.001|Controllers.001|Controllers.001|Controllers.006
+  - first:
+      74: -5373163465895369225
+    second: Controllers.003|Controllers.001|Controllers.001|Controllers|Controllers|Con
+  - first:
+      74: -566892506415090428
+    second: Controllers.003|Controllers.001|Controllers.001|Controllers|Controllers|Control
+  - first:
+      74: 7332454834485817304
+    second: 'Controllers.003|Controllers.001|Controllers.001|Controllers|Controllers|Oculus '
+  - first:
+      74: 8628173456453853479
+    second: Controllers.003|Controllers.001|Controllers.001|Oculus Headset|Oculus
+      Heads
+  - first:
+      74: -4400737808156074062
+    second: Controllers.003|Controllers.001|Controllers.001|Oculus Headset|Oculus
+      Headset|C
+  - first:
+      74: -6907553758728629255
+    second: Controllers.003|Controllers.001|Controllers.001|Oculus Headset|Oculus
+      Headset|O
+  - first:
+      74: 840010234175497757
+    second: Controllers.004|Controllers.001|Controllers.001|Controllers.001|Controllers.001
+  - first:
+      74: 4749668470290268935
+    second: Controllers.004|Controllers.001|Controllers.001|Controllers.001|Controllers.002
+  - first:
+      74: 1639417601538333807
+    second: Controllers.004|Controllers.001|Controllers.001|Controllers.001|Controllers.003
+  - first:
+      74: 1762773005321566863
+    second: Controllers.004|Controllers.001|Controllers.001|Controllers.001|Controllers.004
+  - first:
+      74: -8236494195116422094
+    second: Controllers.004|Controllers.001|Controllers.001|Controllers.001|Controllers.005
+  - first:
+      74: 7173411543575903652
+    second: Controllers.004|Controllers.001|Controllers.001|Controllers.001|Controllers.006
+  - first:
+      74: 3638266130653152793
+    second: Controllers.004|Controllers.001|Controllers.001|Controllers|Controllers|Con
+  - first:
+      74: -3533553802607184243
+    second: Controllers.004|Controllers.001|Controllers.001|Controllers|Controllers|Control
+  - first:
+      74: -2991059540204986474
+    second: 'Controllers.004|Controllers.001|Controllers.001|Controllers|Controllers|Oculus '
+  - first:
+      74: -4995332326015152933
+    second: Controllers.004|Controllers.001|Controllers.001|Oculus Headset|Oculus
+      Heads
+  - first:
+      74: -2503097673480718533
+    second: Controllers.004|Controllers.001|Controllers.001|Oculus Headset|Oculus
+      Headset|C
+  - first:
+      74: 99454217670780629
+    second: Controllers.004|Controllers.001|Controllers.001|Oculus Headset|Oculus
+      Headset|O
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

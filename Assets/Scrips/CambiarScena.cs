@@ -21,7 +21,8 @@ public class CambiarScena : MonoBehaviour
     {
         if (other.gameObject.tag == "Mujer")
         {
-            SceneManager.LoadScene(nombre);
+            GameObject.Find("GameManager").GetComponent<ManagerEscenas>().ScenaManager(0);
+            //SceneManager.LoadScene(nombre);
         }
     }
 }

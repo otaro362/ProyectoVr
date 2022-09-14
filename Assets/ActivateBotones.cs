@@ -14,7 +14,7 @@ public class ActivateBotones : MonoBehaviour
     void Start()
     {
         gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
-        gameManager.botones.Add(this.gameObject);
+        //gameManager.botones.Add(this.gameObject);
     }
     private void OnTriggerEnter(Collider other)
     {

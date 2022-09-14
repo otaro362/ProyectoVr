@@ -6,35 +6,42 @@ using UnityEngine.SceneManagement;
 public class ManagerEscenas : MonoBehaviour
 {
     public string[] scenas;
-    public GameObject panel;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public GameObject[] panel;
+    public GameObject canvasLoading;
+    public bool canvasLoad;
     public void ScenaManager(int x)
     {
+        if (canvasLoad)
+        {
+            SceneManager.LoadScene(scenas[x]);
+        }
+        else
+        {
+            StartCoroutine(ScenLoading(x));
+        }
+        
+    }
+    IEnumerator ScenLoading(int x)
+    {
+        canvasLoading.SetActive(true);
+        canvasLoading.GetComponent<Animator>().SetBool("Enter",false);
+        yield return new WaitForSeconds(8);
         SceneManager.LoadScene(scenas[x]);
+    }
+    public void CanvasOff()
+    {
+        canvasLoading.SetActive(false);
     }
     public void ScenaMenu()
     {
         SceneManager.LoadScene("Menu");
     }
-    public void PanelActivate()
+    public void PanelActivate(int x)
     {
-        if (panel.activeInHierarchy)
+        for (int i = 0; i <panel.Length; i++)
         {
-            panel.SetActive(false);
-        }
-        else
-        {
-            panel.SetActive(true);
+            panel[i].SetActive(false);
+            panel[x].SetActive(true);
         }
     }
 }

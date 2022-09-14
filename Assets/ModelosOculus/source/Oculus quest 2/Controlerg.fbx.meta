@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 132a892a29d0739478a0162584fdf3c1
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7773639732408841261
+    second: Controllers|Controllers.001|Controllers.001|Controllers.001Action
+  - first:
+      74: 8069552188613302263
+    second: Controllers|Controllers.001|Controllers.001|ControllersAction
+  - first:
+      74: 4886688711611050038
+    second: Controllers|Controllers.001|Controllers.001|Oculus HeadsetAction
+  - first:
+      74: -6235425422289660598
+    second: Controllers|Controllers|Controllers|Controllers.001Action
+  - first:
+      74: -7370155487646497005
+    second: Controllers|Controllers|Controllers|ControllersAction
+  - first:
+      74: 5340822393968583266
+    second: Controllers|Controllers|Controllers|Oculus HeadsetAction
+  - first:
+      74: 3557856452959774849
+    second: Controllers|Oculus Headset|Oculus Headset|Controllers.001Action
+  - first:
+      74: 4049338342726526413
+    second: Controllers|Oculus Headset|Oculus Headset|ControllersAction
+  - first:
+      74: 2551398668777657606
+    second: Controllers|Oculus Headset|Oculus Headset|Oculus HeadsetAction
+  - first:
+      74: 1137585950962042099
+    second: Controllers|Controllers|Controllers|Controllers.001|Controllers.001|Con
+  - first:
+      74: 8745945441865677077
+    second: Controllers|Controllers|Controllers|Controllers.001|Controllers.001|Con.001
+  - first:
+      74: 8537058303692393659
+    second: Controllers|Controllers|Controllers|Controllers.001|Controllers.001|Con.002
+  - first:
+      74: 2537977817460333946
+    second: Controllers|Controllers|Controllers|Controllers.001|Controllers.001|Con.003
+  - first:
+      74: -5739036951968506544
+    second: Controllers|Controllers|Controllers|Controllers.001|Controllers.001|Control
+  - first:
+      74: -2214165267403253495
+    second: 'Controllers|Controllers|Controllers|Controllers.001|Controllers.001|Oculus '
+  - first:
+      74: -6867778079186427030
+    second: Controllers|Controllers|Controllers|Controllers|Controllers|Controllers.001
+  - first:
+      74: -6608741590220666627
+    second: Controllers|Controllers|Controllers|Controllers|Controllers|ControllersActi
+  - first:
+      74: -8983267594577972147
+    second: Controllers|Controllers|Controllers|Controllers|Controllers|Oculus HeadsetA
+  - first:
+      74: 7988190606493625561
+    second: Controllers|Controllers|Controllers|Oculus Headset|Oculus Headset|Contr
+  - first:
+      74: -8710547757966577760
+    second: Controllers|Controllers|Controllers|Oculus Headset|Oculus Headset|Controlle
+  - first:
+      74: 2528083312466882937
+    second: Controllers|Controllers|Controllers|Oculus Headset|Oculus Headset|Oculus
+      He
+  - first:
+      74: 7387378645869356850
+    second: Controllers.001|Controllers|Controllers|Controllers.001|Controllers.001|Con
+  - first:
+      74: 4312523938822233752
+    second: Controllers.001|Controllers|Controllers|Controllers.001|Controllers.001|Con.001
+  - first:
+      74: -2845886781119748251
+    second: Controllers.001|Controllers|Controllers|Controllers.001|Controllers.001|Con.002
+  - first:
+      74: -5628209563794134653
+    second: Controllers.001|Controllers|Controllers|Controllers.001|Controllers.001|Con.003
+  - first:
+      74: 7980449677200435896
+    second: Controllers.001|Controllers|Controllers|Controllers.001|Controllers.001|Control
+  - first:
+      74: 6481637515339030293
+    second: 'Controllers.001|Controllers|Controllers|Controllers.001|Controllers.001|Oculus '
+  - first:
+      74: 8765270669617548276
+    second: Controllers.001|Controllers|Controllers|Controllers|Controllers|Controllers.001
+  - first:
+      74: -3275967165684550136
+    second: Controllers.001|Controllers|Controllers|Controllers|Controllers|ControllersActi
+  - first:
+      74: 3462109173476689370
+    second: Controllers.001|Controllers|Controllers|Controllers|Controllers|Oculus
+      HeadsetA
+  - first:
+      74: 7061876298879643133
+    second: Controllers.001|Controllers|Controllers|Oculus Headset|Oculus Headset|Contr
+  - first:
+      74: -3169438938040385997
+    second: Controllers.001|Controllers|Controllers|Oculus Headset|Oculus Headset|Controlle
+  - first:
+      74: 8505093943741611293
+    second: Controllers.001|Controllers|Controllers|Oculus Headset|Oculus Headset|Oculus
+      He
+  - first:
+      74: 8689871232950782737
+    second: Controllers.002|Controllers|Controllers|Controllers.001|Controllers.001|Con
+  - first:
+      74: 7965185508178066797
+    second: Controllers.002|Controllers|Controllers|Controllers.001|Controllers.001|Con.001
+  - first:
+      74: -1180295515221454601
+    second: Controllers.002|Controllers|Controllers|Controllers.001|Controllers.001|Con.002
+  - first:
+      74: 4107395851165886641
+    second: Controllers.002|Controllers|Controllers|Controllers.001|Controllers.001|Con.003
+  - first:
+      74: -3737772235164528745
+    second: Controllers.002|Controllers|Controllers|Controllers.001|Controllers.001|Control
+  - first:
+      74: -1615593436559569270
+    second: 'Controllers.002|Controllers|Controllers|Controllers.001|Controllers.001|Oculus '
+  - first:
+      74: 3512166794658873899
+    second: Controllers.002|Controllers|Controllers|Controllers|Controllers|Controllers.001
+  - first:
+      74: 1285323252425679694
+    second: Controllers.002|Controllers|Controllers|Controllers|Controllers|ControllersActi
+  - first:
+      74: -864830452221754964
+    second: Controllers.002|Controllers|Controllers|Controllers|Controllers|Oculus
+      HeadsetA
+  - first:
+      74: 2733482466137598049
+    second: Controllers.002|Controllers|Controllers|Oculus Headset|Oculus Headset|Contr
+  - first:
+      74: -4660004871226150010
+    second: Controllers.002|Controllers|Controllers|Oculus Headset|Oculus Headset|Controlle
+  - first:
+      74: -8959665063043638584
+    second: Controllers.002|Controllers|Controllers|Oculus Headset|Oculus Headset|Oculus
+      He
+  - first:
+      74: -6501535680250387722
+    second: Controllers.003|Controllers|Controllers|Controllers.001|Controllers.001|Con
+  - first:
+      74: 116488256814162237
+    second: Controllers.003|Controllers|Controllers|Controllers.001|Controllers.001|Con.001
+  - first:
+      74: 8141653912326141489
+    second: Controllers.003|Controllers|Controllers|Controllers.001|Controllers.001|Con.002
+  - first:
+      74: 2072109923645021454
+    second: Controllers.003|Controllers|Controllers|Controllers.001|Controllers.001|Con.003
+  - first:
+      74: 6730187419053889140
+    second: Controllers.003|Controllers|Controllers|Controllers.001|Controllers.001|Control
+  - first:
+      74: 8972500683420930384
+    second: 'Controllers.003|Controllers|Controllers|Controllers.001|Controllers.001|Oculus '
+  - first:
+      74: -3874985587448047820
+    second: Controllers.003|Controllers|Controllers|Controllers|Controllers|Controllers.001
+  - first:
+      74: 362663146129771487
+    second: Controllers.003|Controllers|Controllers|Controllers|Controllers|ControllersActi
+  - first:
+      74: -7346310748729226210
+    second: Controllers.003|Controllers|Controllers|Controllers|Controllers|Oculus
+      HeadsetA
+  - first:
+      74: 1808258472431371453
+    second: Controllers.003|Controllers|Controllers|Oculus Headset|Oculus Headset|Contr
+  - first:
+      74: -602920418267434707
+    second: Controllers.003|Controllers|Controllers|Oculus Headset|Oculus Headset|Controlle
+  - first:
+      74: 3921952577716302169
+    second: Controllers.003|Controllers|Controllers|Oculus Headset|Oculus Headset|Oculus
+      He
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

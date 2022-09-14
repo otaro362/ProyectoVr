@@ -50,6 +50,7 @@ public class Hblar : MonoBehaviour
     // una corrutina distinta ya que los dialogos son distintos 
     IEnumerator ComenzarVoz()
     {
+        yield return new WaitForSeconds(10f);
         yield return new WaitForSeconds(0.03f);
         vozH.Play();
         yield return new WaitForSeconds(35f);
@@ -63,6 +64,7 @@ public class Hblar : MonoBehaviour
     }
     IEnumerator Siguiente()
     {
+        yield return new WaitForSeconds(10f);
         yield return new WaitForSeconds(3f);
         Hombre.SetBool("Siguiente", true);
         yield return new WaitForSeconds(0.2f);
@@ -72,6 +74,7 @@ public class Hblar : MonoBehaviour
     }
     IEnumerator Siguiente2()
     {
+        yield return new WaitForSeconds(10f);
         yield return new WaitForSeconds(0.03f);
         vozH.Play();
         Hombre.SetBool("Siguiente", true);
@@ -84,7 +87,7 @@ public class Hblar : MonoBehaviour
     }
     IEnumerator Siguiente3()
     {
-        yield return new WaitForSeconds(0.03f);
+        yield return new WaitForSeconds(10f);
         vozH.Play();
         yield return new WaitForSeconds(3f);
         Hombre.SetBool("Siguiente", true);

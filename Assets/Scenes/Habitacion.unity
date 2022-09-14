@@ -352,6 +352,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 1801559007510187027, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1801559007510187118, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6944846143244404797, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -370,6 +378,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+--- !u!1 &1437407399 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1801559007510187118, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+  m_PrefabInstance: {fileID: 1437407398}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6960821058202487657
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -425,6 +438,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9020520742034272934, guid: a1fde7d91c62cbc41a59dd47469c4e24, type: 3}
+      propertyPath: canvasLoading
+      value: 
+      objectReference: {fileID: 1437407399}
     - target: {fileID: 9020520742034272934, guid: a1fde7d91c62cbc41a59dd47469c4e24, type: 3}
       propertyPath: scenas.Array.data[0]
       value: CAgresivo

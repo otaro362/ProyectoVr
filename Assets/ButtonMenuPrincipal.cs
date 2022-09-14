@@ -33,7 +33,7 @@ public class ButtonMenuPrincipal : MonoBehaviour
             fillAmount.transform.GetChild(0).GetComponent<Image>().fillAmount = time / totaltime;
             if (time >= totaltime)
             {
-                gameManager.gameObject.GetComponent<ManagerEscenas>().ScenaMenu();
+                gameManager.gameObject.GetComponent<ManagerEscenas>().ScenaManager(0);
             }
             Debug.Log(111);
         }

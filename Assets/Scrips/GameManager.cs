@@ -35,6 +35,10 @@ public class GameManager : MonoBehaviour
                 break;
         }
     }
+    public void ActPanel()
+    {
+        correcto.SetActive(true);
+    }
     public void BotonesRespuesta()
     {
         for (int i = 0; i < botones.Count; i++)
@@ -49,5 +53,6 @@ public class GameManager : MonoBehaviour
             botones[i].SetActive(false);
         }
     }
+
     
 }

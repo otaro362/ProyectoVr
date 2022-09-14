@@ -2087,6 +2087,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9020520742034272934, guid: a1fde7d91c62cbc41a59dd47469c4e24, type: 3}
+      propertyPath: canvasLoading
+      value: 
+      objectReference: {fileID: 2090968546}
+    - target: {fileID: 9020520742034272934, guid: a1fde7d91c62cbc41a59dd47469c4e24, type: 3}
+      propertyPath: panel.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9020520742034272934, guid: a1fde7d91c62cbc41a59dd47469c4e24, type: 3}
       propertyPath: scenas.Array.data[0]
       value: CPasivaG2
       objectReference: {fileID: 0}
@@ -7086,6 +7094,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 4227322505300589756, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 6769820009529261761, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -7131,6 +7143,11 @@ PrefabInstance:
 --- !u!224 &2090968545 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6944846144474508560, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+  m_PrefabInstance: {fileID: 2090968544}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2090968546 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1801559007510187118, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
   m_PrefabInstance: {fileID: 2090968544}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &2127491599
