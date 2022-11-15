@@ -7263,6 +7263,7 @@ MonoBehaviour:
   - {fileID: 434867401}
   - {fileID: 1943349045}
   canvasLoading: {fileID: 324695871}
+  canvasLoad: 0
 --- !u!4 &1788460439
 Transform:
   m_ObjectHideFlags: 0

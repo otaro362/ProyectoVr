@@ -2785,12 +2785,32 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 1801559006807754058, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+      propertyPath: m_fontColor.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1801559007405484014, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+      propertyPath: m_fontColor.a
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1801559007510187027, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
       propertyPath: m_PresetInfoIsWorld
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1801559007510187118, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
       propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1801559008061852971, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+      propertyPath: m_fontColor.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1801559008232032621, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+      propertyPath: m_fontColor.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1801559008277099182, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}
+      propertyPath: m_Color.a
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4227322505300589756, guid: 1551154603b21e04c904afcb8bf8136c, type: 3}

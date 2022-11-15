@@ -2365,7 +2365,7 @@ MonoBehaviour:
   - "Vamos a iniciar conociendo los dispositivos que vamos a utilizar en esta sesi\xF3n"
   - "Eso nos permitir\xE1 conocer como movernos en este mundo virtual"
   - Este es tu Headset
-  - "Son gafas de realidad virtual estas nos permite mover nuestra cabeza en cualquier
+  - "Son gafas de realidad virtual que nos permite mover nuestra cabeza en cualquier
     direcci\xF3n y poder ver el mundo virtual"
   - Por favor mueve tu cabeza de un lado a otro
   - "\xA1Perfecto!"
@@ -2381,7 +2381,7 @@ MonoBehaviour:
   - "\xA1Perfecto!"
   - 'Ahora vamos a responder unas preguntas '
   - "En tu mano izquierda aparecer\xE1 una tabla planillera "
-  - "En ella van aparecer\xE1 una pregunta y cuatro respuestas Por favor m\xEDrala"
+  - "En ella  aparece una pregunta y cuatro respuestas. Por favor m\xEDrala"
   - Ahora vamos a responder las preguntas
   - Primera pregunta
   - "\xBFDe que color es el cielo?"
@@ -2398,7 +2398,7 @@ MonoBehaviour:
   - "Para responderla, por favor oprime el bot\xF3n que est\xE1 de color naranja
     en tu mano derecha "
   - 'Y acerca tu mano a la respuesta correcta '
-  - Excelente Por favor sigue las intrusiones del terapeuta
+  - Excelente Por favor sigue las instrucciones del terapeuta
   dialogBox: {fileID: 722973851}
   time: 0
   indText: 0
@@ -5557,7 +5557,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Este Joystick sirve para moverte por la habitacion
+  m_text: ' moverte por la habitacion'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5584,7 +5584,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20.85
+  m_fontSize: 26.6
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -5711,7 +5711,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d50e5cc2eb612744e8ae03ab35ce20a2, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1232777416564379850, guid: d50e5cc2eb612744e8ae03ab35ce20a2, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -6652,6 +6652,10 @@ PrefabInstance:
     - target: {fileID: 4865139172590206538, guid: c3f677bd36a4b634d909e21949895a8f, type: 3}
       propertyPath: m_Name
       value: CanvasLoading
+      objectReference: {fileID: 0}
+    - target: {fileID: 4865139173124865807, guid: c3f677bd36a4b634d909e21949895a8f, type: 3}
+      propertyPath: m_text
+      value: ENHAP
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3f677bd36a4b634d909e21949895a8f, type: 3}
