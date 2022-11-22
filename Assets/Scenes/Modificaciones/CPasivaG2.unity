@@ -2194,7 +2194,7 @@ MonoBehaviour:
   tarjet1: {fileID: 0}
   place: []
   audioClips:
-  - {fileID: 8300000, guid: 797fdf6ccff30984a8a25bfb485c7b47, type: 3}
+  - {fileID: 8300000, guid: c6112cc11a290a94e879e76f0b2def8e, type: 3}
   audioSource: {fileID: 0}
   agent: {fileID: 0}
   animator: {fileID: 0}
@@ -5074,8 +5074,8 @@ MonoBehaviour:
   - {fileID: 813242447}
   - {fileID: 309333928}
   audioClips:
-  - {fileID: 8300000, guid: ba9b838834bd27e438da6a21d0fc7d73, type: 3}
-  - {fileID: 8300000, guid: e600a232eb270c8469c30c78caa58eb2, type: 3}
+  - {fileID: 8300000, guid: 8e7cd5f3c55336845a5940ce96190171, type: 3}
+  - {fileID: 8300000, guid: 7de07723884a47742a80edbc72f58f55, type: 3}
   audioSource: {fileID: 0}
   agent: {fileID: 0}
   animator: {fileID: 0}
