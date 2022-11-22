@@ -9,46 +9,46 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 797ca8258d93b4b4c86c82fab9650a52
   - enabled: 1
-    path: Assets/Scenes/CPasivoAgresivo.unity
+    path: Assets/Scenes/Scenas/CPasivoAgresivo.unity
     guid: ee31517d1a21b21488f3a0bd9893938b
   - enabled: 1
-    path: Assets/Scenes/CAsertivo.unity
+    path: Assets/Scenes/Scenas/CAsertivo.unity
     guid: dec15e7d262c7f549bb1ce17f8eb993b
   - enabled: 1
-    path: Assets/Scenes/CAsertivo2.unity
+    path: Assets/Scenes/Scenas/CAsertivo2.unity
     guid: 2c02e0b706461bb40978a82be44a8966
   - enabled: 1
-    path: Assets/Scenes/CPasivo.unity
+    path: Assets/Scenes/Scenas/CPasivo.unity
     guid: a10929b817904eb4cbac8c7844260dde
   - enabled: 1
-    path: Assets/Scenes/Habitacion.unity
+    path: Assets/Scenes/Scenas/Habitacion.unity
     guid: 504fc04a93a72b6418399c19b5f9f47f
   - enabled: 1
-    path: Assets/Scenes/Cpasivo2.unity
+    path: Assets/Scenes/Scenas/Cpasivo2.unity
     guid: b2e9c5d0534b89e479d9aa109ce7cf6a
   - enabled: 1
-    path: Assets/Scenes/CAgresivo.unity
+    path: Assets/Scenes/Scenas/CAgresivo.unity
     guid: 2d3ab066bb9ac494897d6907cff5ad14
   - enabled: 1
-    path: Assets/Scenes/CPasivaG2.unity
+    path: Assets/Scenes/Modificaciones/CPasivaG2.unity
     guid: f59a84aafe9c7d34c86c91d5562bab2d
   - enabled: 1
-    path: Assets/Scenes/CAcertivaG2.unity
+    path: Assets/Scenes/Modificaciones/CAcertivaG2.unity
     guid: 5bc49ddc215e3f149a57c66b2a5bf6a0
   - enabled: 1
-    path: Assets/Scenes/CAgresivoG2.unity
+    path: Assets/Scenes/Scenas/CAgresivoG2.unity
     guid: f2603767c6545064e9c9e7c96f2e819c
   - enabled: 1
-    path: Assets/Scenes/CTristezaG1.unity
+    path: Assets/Scenes/Modificaciones/CTristezaG1.unity
     guid: 124d5fca64ffa244e97ccb22bc16745f
   - enabled: 1
-    path: Assets/Scenes/CTristezaG2.unity
+    path: Assets/Scenes/Modificaciones/CTristezaG2.unity
     guid: 3dbc774cf1d207649855fbc63380eb05
   - enabled: 1
-    path: Assets/Scenes/CTristezaG3.unity
+    path: Assets/Scenes/Modificaciones/CTristezaG3.unity
     guid: 5e60a043bb6da6b4fb40ffb859a3592b
   - enabled: 1
-    path: Assets/Scenes/CAgresionVerbal.unity
+    path: Assets/Scenes/Modificaciones/CAgresionVerbal.unity
     guid: e2d5e10b4780bb34bbdb53d4914ad34c
   - enabled: 1
     path: Assets/Scenes/MovimientoPersonaje.unity
